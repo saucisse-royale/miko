@@ -6,19 +6,19 @@ An experimental minimalist multiplayer top-down adventure game (en français)
 ## Protocole
 
 * [`PROTOCOL.md`](PROTOCOL.md)
-* instable
+* WIP
 
 ## Client
 
 * [`client/`](client)
 * java 8 se
-* non fonctionnel
+* WIP
 
 ## Serveur
 
 * [`server/`](server)
 * go
-* non fonctionnel
+* WIP
 
 ## Jeu
 
